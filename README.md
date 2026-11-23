@@ -1,7 +1,7 @@
 # ShopperStack-Manual-Testing1
-**Prepared by:** Saurav Anand
+**Repository Maintained by:** Saurav Anand
 
-**Project Type:** Manual Testing
+**Original Project Reference:** Shivu S
 
 ## Project Overview
 Manual testing practice for an e-commerce application.
